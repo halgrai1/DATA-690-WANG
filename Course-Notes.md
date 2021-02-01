@@ -39,9 +39,11 @@ applications".
 
 
 ### Chapter 2 Notes
+
 **Python Interpreter**
 `python` runs python in terminal
 - differences between standard terminal Python interpreter, ipython shell, and Jupyter notebook and how to run them.
+
 **Keyboard Shortcuts**
 - Ctrl-P or up-arrow Search backward in command history for commands starting with currently entered text
 - Ctrl-N or down-arrow Search forward in command history for commands starting with currently entered text
@@ -55,6 +57,7 @@ applications".
 - Ctrl-F Move cursor forward one character
 - Ctrl-B Move cursor back one character
 - Ctrl-L Clear screen
+
 **Magic Commands**
 Special commands (which are not built into Python itself) are known as “magic” commands. A magic command is any command prefixed by the percent symbol %
 - %quickref Display the IPython Quick Reference Card
