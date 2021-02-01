@@ -11,6 +11,7 @@ Cells that are text # header 1 ## header 2 etc… They are markdowns
 .py is a python program
 
 **Code**
+
 'pwd' (to know present working directory)
 'ls'
 Create a terminal in deepnote > run the program e.g. hello.py
