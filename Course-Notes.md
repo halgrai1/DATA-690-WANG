@@ -1,6 +1,7 @@
 # Hala Algrain's DATA 690 Course Notes
 
 ## Week 1
+### In-Class Notes 1.28.2021
 **Intro**
 
 - Every github repository has a README file that explains the project.
@@ -11,8 +12,8 @@
 - .ipynb = interactive python notebook ; it's a jupytr notebook
 - .py is a python program
 
-**Code**
 
+**Code**
 `pwd` to know present working directory
 
 `ls` 
@@ -23,14 +24,20 @@ Create a terminal in deepnote > run the program e.g. hello.py
 
 `gip` need to double check what that is
 
+
 **Prof's Advice**
 1. He recommends wc3 tutorial on link on his github.
 2. Learn to use the virtual machine.
 
 
-
-### In-Class Notes 1.28.2021
 ### Chapter 1 Notes
+- Python is very versatile but has limitations like when creating "highly concurrent, multithreaded
+applications".
+- There are many kinds of data, e.g. time series, matrices, and tabular (spreadsheets)
+- There are many kinds of Pythong Libraries, e.g. pandas, NumPy, matplotlib
+- Python 3 is the most up-to-date version
+
+
 ### Chapter 2 Notes
 
 
