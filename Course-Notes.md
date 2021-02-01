@@ -59,7 +59,8 @@ applications".
 - Ctrl-L Clear screen
 
 **Magic Commands**
-Special commands (which are not built into Python itself) are known as “magic” commands. A magic command is any command prefixed by the percent symbol %
+
+*Special commands (which are not built into Python itself) are known as “magic” commands. A magic command is any command prefixed by the percent symbol %*
 - %quickref Display the IPython Quick Reference Card
 - %magic Display detailed documentation for all of the available magic commands
 - %debug Enter the interactive debugger at the bottom of the last exception traceback
@@ -120,7 +121,7 @@ to the format method:
   - `In [75]: template.format(4.5560, 'Argentine Pesos', 1)`
   - `Out[75]: '4.56 Argentine Pesos are worth US$1'`
   
-  **Date and Time Format Specificatins**
+ **Date and Time Format Specificatins**
 - %Y Four-digit year
 - %y Two-digit year
 - %m Two-digit month [01, 12]
