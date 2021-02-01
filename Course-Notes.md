@@ -1,7 +1,7 @@
 # Hala Algrain's DATA 690 Course Notes
 
 ## Week 1
-### In-Class Notes 1.28.2021
+### IN-CLASS NOTES 1.28.2021
 **Intro**
 
 - Every github repository has a README file that explains the project.
@@ -31,7 +31,7 @@ Create a terminal in deepnote > run the program e.g. hello.py
 2. Learn to use the virtual machine.
 
 
-### Chapter 1 Notes
+### CHAPTER 1 NOTES
 - Python is very versatile but has limitations like when creating "highly concurrent, multithreaded
 applications".
 - There are many kinds of data, e.g. time series, matrices, and tabular (spreadsheets)
@@ -39,7 +39,7 @@ applications".
 - Python 3 is the most up-to-date version
 
 
-### Chapter 2 Notes
+### CHAPTER 2 NOTES
 
 **Python Interpreter**
 `python` runs python in terminal
