@@ -39,6 +39,9 @@ applications".
 
 
 ### Chapter 2 Notes
-
+**Python Interpreter**
+`python` runs python in terminal
+- differences between standard terminal Python interpreter, ipython shell, and Jupyter notebook and how to run them.
+-
 
 ## Week2
