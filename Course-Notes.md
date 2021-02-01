@@ -24,9 +24,8 @@ Create a terminal in deepnote > run the program e.g. hello.py
 `gip` need to double check what that is
 
 **Prof's Advice**
-
-He recommends wc3 tutorial on link on his github.
-Learn to use the virtual machine.
+1. He recommends wc3 tutorial on link on his github.
+2. Learn to use the virtual machine.
 
 
 
