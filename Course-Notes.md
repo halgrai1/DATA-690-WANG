@@ -76,4 +76,66 @@ Special commands (which are not built into Python itself) are known as “magic�
 - %who, %who_ls, %whos Display variables defined in interactive namespace, with varying levels of information/ verbosity
 - %xdel variable Delete a variable and attempt to clear any references to the object in the IPython internals
 
+**Python Language Basics**
+- Python typically have both attributes (other Python objects stored “inside” the object) and methods (functions associated with an object that can have access to the object’s internal data). Both of them are accessed via the syntax `obj.attribute_name`
+- Duck typing: Often you may not care about the type of an object but rather only whether it has certain methods or behavior
+
+**List of Binary Operators**
+- a + b Add a and b
+- a - b Subtract b from a
+- a * b Multiply a by b
+- a / b Divide a by b
+- a // b Floor-divide a by b, dropping any fractional remainder
+- a ** b Raise a to the b power
+- a & b True if both a and b are True; for integers, take the bitwise AND
+- a | b True if either a or b is True; for integers, take the bitwise OR
+- a ^ b For booleans, True if a or b is True, but not both; for integers, take the bitwise EXCLUSIVE-OR
+- a == b True if a equals b
+- a != b True if a is not equal to b
+- a <= b, a < b True if a is less than (less than or equal) to b
+- a > b, a >= b True if a is greater than (greater than or equal) to b
+- a is b True if a and b reference the same Python object
+- a is not b True if a and b reference different Python objects
+
+**Standard Python Scalar Types**
+- None The Python “null” value (only one instance of the None object exists)
+- str String type; holds Unicode (UTF-8 encoded) strings
+- bytes Raw ASCII bytes (or Unicode encoded as bytes)
+- float Double-precision (64-bit) floating-point number (note there is no separate double type)
+- bool A True or False value
+- int Arbitrary precision signed integer
+
+**Strings**
+- String objects have a format method that
+can be used to substitute formatted arguments into the string, producing a new
+string:
+`In [74]: template = '{0:.2f} {1:s} are worth US${2:d}'`
+In this string,
+  -  {0:.2f} means to format the first argument as a floating-point number with two
+decimal places.
+  -  {1:s} means to format the second argument as a string.
+  - {2:d} means to format the third argument as an exact integer.
+- To substitute arguments for these format parameters, we pass a sequence of arguments
+to the format method:
+  - `In [75]: template.format(4.5560, 'Argentine Pesos', 1)`
+  - `Out[75]: '4.56 Argentine Pesos are worth US$1'`
+  
+  **Date and Time Format Specificatins**
+- %Y Four-digit year
+- %y Two-digit year
+- %m Two-digit month [01, 12]
+- %d Two-digit day [01, 31]
+- %H Hour (24-hour clock) [00, 23]
+- %I Hour (12-hour clock) [01, 12]
+- %M Two-digit minute [00, 59]
+- %S Second [00, 61] (seconds 60, 61 account for leap seconds)
+- %w Weekday as integer [0 (Sunday), 6]
+- %U Week number of the year [00, 53]; Sunday is considered the first day of the week, and days before the first Sunday of
+the year are “week 0”
+- %W Week number of the year [00, 53]; Monday is considered the first day of the week, and days before the first Monday of
+the year are “week 0”
+- %z UTC time zone offset as +HHMM or -HHMM; empty if time zone naive
+- %F Shortcut for %Y-%m-%d (e.g., 2012-4-18)
+- %D Shortcut for %m/%d/%y (e.g., 04/18/12)
+
 ## Week2
