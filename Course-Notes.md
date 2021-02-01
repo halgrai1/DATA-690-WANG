@@ -42,6 +42,35 @@ applications".
 **Python Interpreter**
 `python` runs python in terminal
 - differences between standard terminal Python interpreter, ipython shell, and Jupyter notebook and how to run them.
--
+**Keyboard Shortcuts**
+- Ctrl-P or up-arrow Search backward in command history for commands starting with currently entered text
+- Ctrl-N or down-arrow Search forward in command history for commands starting with currently entered text
+- Ctrl-R Readline-style reverse history search (partial matching)
+- Ctrl-Shift-V Paste text from clipboard
+- Ctrl-C Interrupt currently executing code
+- Ctrl-A Move cursor to beginning of line
+- Ctrl-E Move cursor to end of line
+- Ctrl-K Delete text from cursor until end of line
+- Ctrl-U Discard all text on current line
+- Ctrl-F Move cursor forward one character
+- Ctrl-B Move cursor back one character
+- Ctrl-L Clear screen
+**Magic Commands**
+Special commands (which are not built into Python itself) are known as “magic” commands. A magic command is any command prefixed by the percent symbol %
+- %quickref Display the IPython Quick Reference Card
+- %magic Display detailed documentation for all of the available magic commands
+- %debug Enter the interactive debugger at the bottom of the last exception traceback
+- %hist Print command input (and optionally output) history
+- %pdb Automatically enter debugger after any exception
+- %paste Execute preformatted Python code from clipboard
+- %cpaste Open a special prompt for manually pasting Python code to be executed
+- %reset Delete all variables/names defined in interactive namespace
+- %page OBJECT Pretty-print the object and display it through a pager
+- %run script.py Run a Python script inside IPython
+- %prun statement Execute statement with cProfile and report the profiler output
+- %time statement Report the execution time of a single statement
+- %timeit statement Run a statement multiple times to compute an ensemble average execution time; useful for timing code with very short execution time
+- %who, %who_ls, %whos Display variables defined in interactive namespace, with varying levels of information/ verbosity
+- %xdel variable Delete a variable and attempt to clear any references to the object in the IPython internals
 
 ## Week2
