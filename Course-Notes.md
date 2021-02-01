@@ -14,9 +14,13 @@ Cells that are text can be edited; see [cheat sheet](https://www.markdownguide.o
 **Code**
 
 `pwd` to know present working directory
+
 `ls` 
+
 Create a terminal in deepnote > run the program e.g. hello.py
+
 `vi hello.py` file : allows you to edit from terminal .py without a user interface like the jupyter notebook environment
+
 `gip` need to double check what that is
 
 **Prof's Advice**
