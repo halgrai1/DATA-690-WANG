@@ -1,0 +1,51 @@
+,Year,SP.POP.TOTL,NY.GDP.PCAP.PP.CD,SG.LAW.INDX,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,15049353,1787.1615549381,49.375,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1,2011,15514591,1826.6477924667,49.375,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+2,2012,15979499,1763.8394783333,54.375,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+3,2013,16449864,1812.9651180518,54.375,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+4,2014,16934220,1915.3036798138,54.375,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+5,2015,17438778,2032.6551725229,54.375,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+6,2016,17965429,2189.008936776,54.375,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+7,2017,18512394,2246.8016686968,54.375,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+8,2018,19077690,2339.3414173238,60.625,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+9,2019,19658031,2424.3308719435,60.625,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+10,2010,4889252,57963.8759448629,96.875,NOR,Norway,Europe & Central Asia,High income,Not classified
+11,2011,4953088,62076.7406576686,96.875,NOR,Norway,Europe & Central Asia,High income,Not classified
+12,2012,5018573,65354.7792483883,96.875,NOR,Norway,Europe & Central Asia,High income,Not classified
+13,2013,5079623,66961.2530988205,96.875,NOR,Norway,Europe & Central Asia,High income,Not classified
+14,2014,5137232,65892.6892787813,96.875,NOR,Norway,Europe & Central Asia,High income,Not classified
+15,2015,5188607,60368.9208717485,96.875,NOR,Norway,Europe & Central Asia,High income,Not classified
+16,2016,5234519,58939.9126133093,96.875,NOR,Norway,Europe & Central Asia,High income,Not classified
+17,2017,5276968,64255.2826486677,96.875,NOR,Norway,Europe & Central Asia,High income,Not classified
+18,2018,5311916,71444.2376062032,96.875,NOR,Norway,Europe & Central Asia,High income,Not classified
+19,2019,5347896,70005.8885797836,96.875,NOR,Norway,Europe & Central Asia,High income,Not classified
+20,2010,179424641,3890.2906619542,44.375,PAK,Pakistan,South Asia,Lower middle income,Blend
+21,2011,183340592,3993.5501313396,44.375,PAK,Pakistan,South Asia,Lower middle income,Blend
+22,2012,187281475,4018.703768681,44.375,PAK,Pakistan,South Asia,Lower middle income,Blend
+23,2013,191262919,4103.5840779917,46.875,PAK,Pakistan,South Asia,Lower middle income,Blend
+24,2014,195306825,4238.5945208844,46.875,PAK,Pakistan,South Asia,Lower middle income,Blend
+25,2015,199426964,4373.0142336753,46.875,PAK,Pakistan,South Asia,Lower middle income,Blend
+26,2016,203627284,4410.0947532601,46.875,PAK,Pakistan,South Asia,Lower middle income,Blend
+27,2017,207896686,4571.4144908715,50.0,PAK,Pakistan,South Asia,Lower middle income,Blend
+28,2018,212215030,4855.2296662593,52.5,PAK,Pakistan,South Asia,Lower middle income,Blend
+29,2019,216565318,4898.0505701722,52.5,PAK,Pakistan,South Asia,Lower middle income,Blend
+30,2010,7824909,53112.424584429,85.625,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+31,2011,7912398,56183.8325669209,85.625,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+32,2012,7996861,57849.5839515252,85.625,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+33,2013,8089346,60108.5163468318,85.625,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+34,2014,8188649,61902.1624060426,85.625,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+35,2015,8282396,63921.8025107178,85.625,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+36,2016,8373338,65726.8171696837,85.625,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+37,2017,8451840,66910.5737007273,85.625,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+38,2018,8514329,70877.786833578,85.625,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+39,2019,8574832,72376.0239525675,85.625,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+40,2010,309321666,48467.5157769259,83.75,USA,United States,North America,High income,Not classified
+41,2011,311556874,49886.8181094923,83.75,USA,United States,North America,High income,Not classified
+42,2012,313830990,51610.6052783379,83.75,USA,United States,North America,High income,Not classified
+43,2013,315993715,53117.6678498178,83.75,USA,United States,North America,High income,Not classified
+44,2014,318301008,55064.7445483427,83.75,USA,United States,North America,High income,Not classified
+45,2015,320635163,56839.3817742317,83.75,USA,United States,North America,High income,Not classified
+46,2016,322941311,57951.5840820997,83.75,USA,United States,North America,High income,Not classified
+47,2017,324985539,60062.2223132215,83.75,USA,United States,North America,High income,Not classified
+48,2018,326687501,62996.4712852608,91.25,USA,United States,North America,High income,Not classified
+49,2019,328239523,65297.5175082743,91.25,USA,United States,North America,High income,Not classified
